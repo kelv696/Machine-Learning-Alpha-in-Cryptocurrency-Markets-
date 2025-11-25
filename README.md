@@ -174,7 +174,7 @@ This validates that the edge **generalises**.
 ### Limitations:
 This research is strong, but not perfect:
 
-Only BTC 1H data is tested
+Short-horizon BTC 15-minute data
 
 No transaction-cost model
 
